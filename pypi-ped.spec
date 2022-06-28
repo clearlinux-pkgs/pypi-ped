@@ -4,7 +4,7 @@
 #
 Name     : pypi-ped
 Version  : 2.1.0
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/e1/f3/75df1fb853b8ff8f37e641ccec4b64e6f21fc3dca3580c887e0390661d97/ped-2.1.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e1/f3/75df1fb853b8ff8f37e641ccec4b64e6f21fc3dca3580c887e0390661d97/ped-2.1.0.tar.gz
 Summary  : Quickly open Python modules in your text editor.
@@ -68,7 +68,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1656389007
+export SOURCE_DATE_EPOCH=1656393662
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
