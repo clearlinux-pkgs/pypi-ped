@@ -7,7 +7,7 @@
 #
 Name     : pypi-ped
 Version  : 3.0.0
-Release  : 17
+Release  : 18
 URL      : https://files.pythonhosted.org/packages/35/a5/74209ec54b840429700fae4002462cd71288939cf975d0cb5bac8c570558/ped-3.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/35/a5/74209ec54b840429700fae4002462cd71288939cf975d0cb5bac8c570558/ped-3.0.0.tar.gz
 Summary  : Quickly open Python modules in your text editor.
